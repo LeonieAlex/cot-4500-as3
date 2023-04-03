@@ -10,7 +10,7 @@ Mention of running python
 Requirements.txt contains the third library, to run this program
 1. Make sure pip is in your computer, if not 
 https://pip.pypa.io/en/stable/installation/
-2. Contains numpy. Install everything in requirements.txt by
+2. Contains numpy. Install everything in requirements.txt by (only contains numpy)
 ```python -m pip install -r requirements.txt```
 3. Run the file
 ```python3 src/main/assignment_3.py```
